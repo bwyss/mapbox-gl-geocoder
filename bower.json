@@ -1,0 +1,22 @@
+{
+  "name": "@mapbox/mapbox-gl-geocoder",
+  "description": "A geocoder control for Mapbox GL JS",
+  "main": "build/v2.0.1/mapbox-gl-geocoder.js",
+  "authors": [
+    "Mapbox"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "geocoder",
+    "osm",
+    "gl"
+  ],
+  "homepage": "https://github.com/bwyss/mapbox-gl-geocoder",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
