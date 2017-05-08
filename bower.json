@@ -1,7 +1,10 @@
 {
   "name": "@mapbox/mapbox-gl-geocoder",
   "description": "A geocoder control for Mapbox GL JS",
-  "main": "build/v2.0.1/mapbox-gl-geocoder.js",
+  "main": [
+    "build/v2.0.1/mapbox-gl-geocoder.js",
+    "build/v2.0.1/mapbox-gl-geocoder.css"
+  ],
   "authors": [
     "Mapbox"
   ],
